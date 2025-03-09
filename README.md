@@ -76,7 +76,7 @@ Since the database was hosted on the university's cloud, data extraction was per
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-## 🔗 References
+## References
 
 - **IMDb Dataset Information:** [IMDb Dataset](https://www.imdb.com/interfaces/)
 - **SQL Optimization Techniques:** [SQL Performance Guide](https://use-the-index-luke.com/)
