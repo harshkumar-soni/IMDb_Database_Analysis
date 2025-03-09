@@ -1,12 +1,12 @@
 # IMDb Movie & Actor Career Analysis using SQL
 
-## 📌 Project Overview
+## Project Overview
 
 This project involved an **SQL-based analysis** of the IMDb database, containing millions of movie and TV episode records. The objective was to analyze **actor career trends, film industry insights, and genre participation** using relational database techniques.
 
 Since the database was hosted on the university's cloud, data extraction was performed through SQL queries without direct access to raw files. The project focused on **query optimization, data retrieval, and visualization** of insights.
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze actor and actress **career spans** and identify trends in film participation over time.
 - Track career fluctuations by categorizing appearances into distinct time periods.
@@ -14,7 +14,7 @@ Since the database was hosted on the university's cloud, data extraction was per
 - Conduct **genre-based analysis** to evaluate actor participation across different film categories.
 - Optimize SQL queries for efficient data retrieval.
 
-## 📌 Parameters & Years for this project
+## Parameters & Years for this project
 
 - **Analysis Years:** 2010 - 2020
 - **Selected Actors & Actresses:**
@@ -29,7 +29,7 @@ Since the database was hosted on the university's cloud, data extraction was per
 - **Query Optimization Techniques**
 - **Data Visualization** (Excel, Graphs, Charts)
 
-## 📌 Analysis Tasks
+## Analysis Tasks
 
 ### Career Span Analysis
 - Extracted the total number of movies for each actor/actress.
