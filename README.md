@@ -73,6 +73,7 @@ Since the database was hosted on the university's cloud, data extraction was per
   - **Actress:** Ryôko Hirosue (**4 movies in 2020**).
 
 
+## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
