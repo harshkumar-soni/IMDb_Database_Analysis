@@ -21,7 +21,7 @@ Since the database was hosted on the university's cloud, data extraction was per
   - **Parameter Actors:** Alec Baldwin, Helen Mirren
   - **Favorite Actors:** Akshay Kumar, Deepika Padukone
 
-## 🛠 Tech Stack & Skills Used
+## Tech Stack & Skills Used
 
 - **SQL** (Querying, Aggregations, Joins, Optimization)
 - **Relational Databases (RDBMS)**
